@@ -1,0 +1,5 @@
+__author__ = "Jaryd Remillard"
+__version__ = "Version: 0.0.1 AlphaDev"
+__date__ = "Date: 8/20/2017"
+__revision__ = "Revision: 10/14/2017"
+__copyright__ = "Copyright (c) 2016-2018 Jaryd Remillard"

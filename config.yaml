@@ -1,0 +1,18 @@
+gateway:
+    ip: 192.168.1.1
+    user: pyids
+    passwd: temppass
+    log: true
+
+network_interfaces:
+  interface: en0
+
+colors:
+    Red: '\033[31m'
+    Green: '\033[32m'
+    Yellow: '\033[33m'
+    Blue: '\033[34m'
+    Pink: '\033[35m'
+    Cyan: '\033[36m'
+    White: '\033[37m'
+    SBlack: '\033[0;30m'
